@@ -1,0 +1,3 @@
+# GitHub linguist 不认识 ArkTS(.ets)，映射成 TypeScript，避免语言统计只剩下 Shell
+*.ets linguist-language=TypeScript
+*.json5 linguist-language=JSON
