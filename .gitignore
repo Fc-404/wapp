@@ -1,0 +1,9 @@
+.hvigor/
+build/
+entry/build/
+oh_modules/
+*.hap
+.shots/
+.tmp/
+.idea/
+.signing/

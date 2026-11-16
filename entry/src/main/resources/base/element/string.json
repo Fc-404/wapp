@@ -1,0 +1,7 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "wapp" },
+    { "name": "console_label", "value": "站点管理" },
+    { "name": "shortcut_console", "value": "站点管理" }
+  ]
+}

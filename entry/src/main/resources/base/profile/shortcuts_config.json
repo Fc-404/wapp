@@ -1,0 +1,19 @@
+{
+  "shortcuts": [
+    {
+      "shortcutId": "console",
+      "label": "$string:shortcut_console",
+      "icon": "$media:startIcon",
+      "wants": [
+        {
+          "bundleName": "com.xazh.wapp",
+          "moduleName": "entry",
+          "abilityName": "ConsoleAbility",
+          "parameters": {
+            "from": "shortcut"
+          }
+        }
+      ]
+    }
+  ]
+}

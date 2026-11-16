@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/WebShell",
+    "pages/Console"
+  ]
+}
