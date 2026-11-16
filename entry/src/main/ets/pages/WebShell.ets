@@ -733,3 +733,5 @@ struct WebShell {
     .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.TOP, SafeAreaEdge.BOTTOM])
   }
 }
+
+// 触发 GitHub linguist 重新统计 ArkTS 语言
